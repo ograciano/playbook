@@ -16,4 +16,4 @@ console.log(issue.getGeneralInfo());
 
 // desmostracion de issue
 console.log('el status es: ' + pullRequest.getStatus());
-console.log(pullRequest.getTitleAndAutor());
+console.log(pullRequest.getTitleAndAutor())
