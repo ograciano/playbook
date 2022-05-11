@@ -1,3 +1,4 @@
+require('dotenv').config();
 const Reader = require("./app/lib/utils/Reader");
 const ExplorerService = require("./app/lib/services/ExplorerService");
 const FizzbuzzService = require("./app/lib/services/FizzbuzzService");
